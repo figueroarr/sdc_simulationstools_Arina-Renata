@@ -1,0 +1,15 @@
+ABOUT – Monte Carlo Experimente
+==================================
+
+Datum: 30.10.2025
+Autoren: Renata Figueroa , Arina Rukina 
+Kurs: Simulationstools für B-SDC – Projekt WS25/26
+
+Python-Version: 3.12.1
+Numpy-Version: 1.26.4
+Scipy-Version: 1.14.0
+Pandas-Version: 2.2.3
+Matplotlib-Version: 3.9.2
+
+Beschreibung:
+Dieses Projekt enthält erste Monte-Carlo-Experimente ...
